@@ -5,8 +5,8 @@ An end-to-end analytics solution designed to track retail performance, analyze c
 Business Goal
 
 The company leadership expects the analytics team to: 
- Identify key sales trends and anomalies 
- Understand customer behavior and segmentation 
- Optimize product performance and inventory 
- Improve store and regional profitability 
- Support decision-making through data visualization and reporting 
+ Identify key sales trends and anomalies 
+ Understand customer behavior and segmentation 
+ Optimize product performance and inventory 
+ Improve store and regional profitability 
+ Support decision-making through data visualization and reporting 
