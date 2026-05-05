@@ -1,2 +1,12 @@
-# -End-to-End-Retail-Performance-and-Behavioral-Analytics
-End-to-End Retail Performance &amp; Behavioral Analytics leverages Python, SQL, and Power BI to clean and analyze sales data, track customer behavior, and visualize store/product performance. Provides insights on revenue, returns, and growth strategies to optimize decisions and boost profits.
+End-to-End Retail Performance & Behavioral Analytics
+
+An end-to-end analytics solution designed to track retail performance, analyze customer behavior, and optimize business decisions. This project combines Python (data cleaning & analysis), SQL (metrics & queries), and Power BI (dashboards & visualization) to deliver actionable insights for growth.
+
+Business Goal
+
+The company leadership expects the analytics team to: 
+ Identify key sales trends and anomalies 
+ Understand customer behavior and segmentation 
+ Optimize product performance and inventory 
+ Improve store and regional profitability 
+ Support decision-making through data visualization and reporting 
